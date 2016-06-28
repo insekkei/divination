@@ -1,0 +1,2 @@
+# divination
+ask me.
